@@ -1,16 +1,16 @@
-title: Tahanima Chowdhury
-description: Software Engineer, QA @ Therap (BD) Ltd.
-baseurl: "/remple/"
+title: Andrew Ortiz
+description: Principal Counsultant, ServiceNow Engagement Manager @ Advizex, Inc.
+baseurl: "/aortiz-resume/"
 url: ""
 photo_url: "my-photo.jpg"
 
 # This is an optional section
 # You can skip filling in one or more of the items in this section
-email: "tahanimachowdhury@gmail.com"
-linkedin: "http://linkedin.com/in/tahanima-chowdhury"
-github: "https://github.com/Tahanima"
-website: "http://tahanima.github.io/"
-medium: "https://tahanima.medium.com/"
+email: "andrew@ortiz.io"
+linkedin: "https://www.linkedin.com/in/anortiz08"
+github: "https://github.com/anortiz08"
+website: "http://anortiz08.github.io/"
+#medium: "https://tahanima.medium.com/"
 
 markdown: kramdown
 theme: minima
