@@ -8,7 +8,7 @@ title: Resume
 ---
 
 ### Advizex Technologies, LLC. - Cleveland, OH
-***Engagement Manager/Principal Consultant, ServiceNow (Sept 2016 - Present)*** &middot;	***Full-time***
+***Engagement Manager, ServiceNow (Sept 2016 - Present)*** &middot;	***Full-time***
 * Leading delivery team of anaylysts and developers throughout the implementation of ServiceNow
 * Managing the engagement governance, timeline, scope, risk, change management, resourcing, reporting, and financials of implementations
 * Consulting and anaylyszing processes, data requirements, and business workflows
