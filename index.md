@@ -54,8 +54,10 @@ CGPA: **3.71** (out of **4.00**)
 * **Programming Languages:** PowerShell, PSCore, Python, SQL, JavaScript, HTML, CSS
 * **Tools** &#124; **Technologies:** Git, JIRA, ServiceNow, Office
 * **Process Expertise:** IT Service Managament, IT Operations Management, DevOps, SecOps, Agile Project Management
+* 
+<br />
 
-
+---
 ## COMMUNITY INVOLVEMENT
 ---
 * Grand Knight of Knights of Columbus Council 16561 - Canal Winchester, OH
