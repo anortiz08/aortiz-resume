@@ -43,7 +43,7 @@ CGPA: **3.71** (out of **4.00**)
 * Graduated with honors for academic excellence
 * Recognized member of the Delta Mu Delta International Business Honor Society for academic excellence
 
-### Borromeo Seminary/John Carrol University - Cleveland, OH
+### Borromeo Seminary/John Carroll University - Cleveland, OH
 *Religious Studies and Theology (2005 - 2006)*
 * Enrolled in philosophy and theology program in the Diocese of Cleveland
 
