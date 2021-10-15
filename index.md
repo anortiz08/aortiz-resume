@@ -6,7 +6,6 @@ title: Resume
 ---
 ## EXPERIENCE
 ---
-
 ### Advizex Technologies, LLC. - Cleveland, OH
 ***Engagement Manager, ServiceNow (Sept 2016 - Present)*** &middot;	***Full-time***
 * Leading delivery team of anaylysts and developers throughout the implementation of ServiceNow
@@ -19,6 +18,12 @@ title: Resume
 * Establishing and developing client relationships and providing technical expertise for the sales organization
 * Serving as technical lead on Advisory Services engagements for technology, security, process, and architecture
 * Engagement management of projects for process automation and service delivery
+
+### resXtech, LLC. - Columbus, OH
+***Owner and Technical Consultant, (May 2015 - Present)*** &middot;	***Part-time***
+* Providing consulting services for clients
+* Managing day-to-day business operations
+* Defining and setting business strategy and goals
 
 ### Fiserv, Inc. - Alpharetta, GA
 ***Advisory Solutions Engineer, Online Banking Professional Services (May 2015 – Sept 2016)*** &middot;    ***Full-time***
