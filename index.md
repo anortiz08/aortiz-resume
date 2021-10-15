@@ -44,7 +44,7 @@ CGPA: **3.71** (out of **4.00**)
 
 ### Lorain County Community College - Elyria, OH
 *Electronics Engineering (2004 - 2005)*
-* Studied electroics design, engineering, and manufacturing
+* Studied electronics design, engineering, and manufacturing
 
 <br />
   
@@ -58,7 +58,8 @@ CGPA: **3.71** (out of **4.00**)
 <br />
 
 ---
-## COMMUNITY INVOLVEMENT
+## COMMUNITY-FOCUSED POSITIONS
 ---
 * Grand Knight of Knights of Columbus Council 16561 - Canal Winchester, OH
-* Committee Member of Habitat for Humanity Community Build Project - Canal Winchester, OH
+* Member of Habitat for Humanity Community Build Project Committee - Canal Winchester, OH
+* Member of Diocesan Vocations Committee for the Diocese of Columbus - Columbus, OH
